@@ -27,3 +27,6 @@ dist
 
 # parcel cache
 .cache
+
+# yarn 
+yarn-error.log
